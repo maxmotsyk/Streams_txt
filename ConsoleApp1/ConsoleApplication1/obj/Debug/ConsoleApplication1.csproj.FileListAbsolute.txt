@@ -1,0 +1,6 @@
+G:\Coding\C#_new\Streams_txt\ConsoleApp1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Coding\C#_new\Streams_txt\ConsoleApp1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Coding\C#_new\Streams_txt\ConsoleApp1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+G:\Coding\C#_new\Streams_txt\ConsoleApp1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+G:\Coding\C#_new\Streams_txt\ConsoleApp1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Coding\C#_new\Streams_txt\ConsoleApp1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
