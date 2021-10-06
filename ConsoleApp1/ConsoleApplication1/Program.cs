@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace ConsoleApplication1
 {
@@ -7,8 +6,9 @@ namespace ConsoleApplication1
     {
         public static void Main(string[] args)
         {
-            
-            Console.WriteLine("sosi");
+            Console.Title = "Streams_txt";
+            console start = new console();
+            start.Menu();
         }
     }
 }
