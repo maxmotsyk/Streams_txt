@@ -2,6 +2,16 @@
 {
     public class Singer : Ipersonaliti
     {
+        public Singer(string name, string lastName, int cours, string sex, double score, string country, string id)
+        {
+            this.Name = name;
+            this.LastName = lastName;
+            this.Сourse = cours;
+            this.Sex = sex;
+            this.AverageScore = score;
+            this.Country = country;
+            this.PasportID = id;
+        }
         public string Name { get; set; }
         public string LastName { get; set; }
         public int Сourse { get; set; }
@@ -14,7 +24,7 @@
 
         public override string ToString()
         {
-            return $"Name:{this.Name}\tLastName:{this.LastName}\tСourse:{this.Сourse}\tSex:{Sex}\tAverageScore:{AverageScore}\tCountry:{Country}\tPasportID:{PasportID}\n";
+            return $"{this.Name}\t{this.LastName}\t{this.Сourse}\t{Sex}\t{AverageScore}\t{Country}\t{PasportID}";
         }
     }
 }
